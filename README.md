@@ -13,7 +13,7 @@ This repo contains my solution for th assignments of the Game Theory course at E
  - Trajectory planning game: in a simplified autonomous car driving scenario, we study the game two cars may end up playing when driving in opposite directions. By modelling the problem in game-theoretical fashion, we conclude that not all the Nash Equilibria minimize the Price of Stability.
     </td>
     <td>
-      <img src="Images/image3.png" alt="Image" width="48%"> <img src="Images/image4.png" alt="Image" width="48%">
+      <img src="Images/image3.png" alt="Image" width="50%"> <img src="Images/image4.png" alt="Image" width="50%">
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@ This repo contains my solution for th assignments of the Game Theory course at E
  - Security cameras: consider the problem of deciding how to cycle through surveillance cameras in a supermarket in order to minimize theft. In this task we are asked to analyze the game played between thieves and securities in a supermarket. In our analysis, it turns out that it maybe convenient for the security to disclose their defensive strategy, as the Nash Equilibria of the Stackelber game are more convenient than those of the Nash Equilibria.
     </td>
     <td>
-      <img src="Images/image2.png" alt="Image" width="48%"> 
+      <img src="Images/image2.png" alt="Image" width="1500"> 
     </td>
   </tr>
 </table>
