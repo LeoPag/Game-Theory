@@ -3,7 +3,7 @@
 This repo contains my solution for th assignments of the Game Theory course at ETH Zurich. They assignments are aimed at assessing the understanding of theretical concepts in the field of Game Theory but also require simulations in MatLab to be completed. The course cover the following topics: Nash Equilibria, Zero-Sum-Games, Potential Games, Convex Games, Auctions, Stackelberg Games, Repeated and Feedback Games, Dynamic Games.
 
 
-# Homework 1
+## Homework 1
 <table>
   <tr>
     <td>
@@ -22,7 +22,7 @@ This repo contains my solution for th assignments of the Game Theory course at E
 </table>
 
 
-# Homework 2
+## Homework 2
 <table>
   <tr>
     <td>
