@@ -45,6 +45,7 @@ This repo contains my solution for th assignments of the Game Theory course at E
       The thirs homework consist of a unique task:
       
  1) Karma Game: we are again exploring the world of autonomous driving:  in particular, we focus on the scenario where pairs of cars arrive at the same time at an intersection. A mechanism is needed in order to decide which of the two cars goes first, and which one yields. This mechanism needs to be used at every intersection, every time a pair of cars arrive simultaneously. To study the problem via game theory, we consider each car a player, which has a preference for going first. More precisely, yielding comes with a cost that depends on whether the driver is in a rush or not. We are asked to analyze and optimize a token protocol in order to minimize the social cost, by leveraging the payments on the players and establishing possible taxes.
+      
     </td>
     <td>
       <img src="Images/image1.png" alt="Image" width="1500"> 
