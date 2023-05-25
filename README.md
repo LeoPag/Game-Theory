@@ -33,7 +33,7 @@ This repo contains my solution for th assignments of the Game Theory course at E
  2) **Security cameras**: consider the problem of deciding how to cycle through surveillance cameras in a supermarket in order to minimize theft. In this task we are asked to analyze the game played between thieves and securities in a supermarket. In our analysis, it turns out that it maybe convenient for the security to disclose their defensive strategy, as the Nash Equilibria of the Stackelberg game are more convenient than those of the Nash Equilibria.
     </td>
     <td>
-      <img src="Images/image2.png" alt="Image" width="1500"> 
+      <img src="Images/image5.png" alt="Image" width="1500"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="Images/image2.png" alt="Image" width="100%">
     </td>
   </tr>
 </table>
