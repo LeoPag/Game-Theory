@@ -1,6 +1,6 @@
 # Game Theory
 
-This repo contains my solution for th assignments of the Game Theory course at ETH Zurich. They assignments are aimed at assessing the understanding of theretical concepts in the field of Game Theory while also require simulations in MatLab. The course cover the following topics: Nash Equilibria, Zero-Sum-Games, Potential Games, Convex Games, Auctions, Stackelberg Games, Repeated and Feedback Games, Dynamic Games.
+This repo contains my solution for the assignments of the Game Theory course at ETH Zurich. They assignments are aimed at assessing the understanding of theretical concepts in the field of Game Theory while also require simulations in MatLab. The course cover the following topics: Nash Equilibria, Zero-Sum-Games, Potential Games, Convex Games, Auctions, Stackelberg Games, Repeated and Feedback Games, Dynamic Games.
 
 
 ## Homework 1
